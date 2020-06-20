@@ -49,8 +49,8 @@ end_cycle = int(input("How many cycles do you want? "))
 
 
 def cycle(start_cycle, end_cycle):
-    workCountdown(1)
-    shortBreak(1)
+    workCountdown(25)
+    shortBreak(5)
     if start_cycle < end_cycle:
         start_cycle += 1
         cycle(start_cycle,end_cycle)
