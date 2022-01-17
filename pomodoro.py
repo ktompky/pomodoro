@@ -12,3 +12,8 @@ if __name__ == "__main__"
             title = "Good Work, minion.",
             message = "Please actually take a 10 min break. You've completed " + str(c)
         )
+        notification.notify(
+            title = "Back to work, peon."
+            message = "Try doing another pomodoro...ß"
+        )
+
