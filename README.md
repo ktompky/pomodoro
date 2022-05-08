@@ -14,3 +14,6 @@
 - Change the work and break sleep timer to keep default times but accept user input of different work and break timers.
 - Change the messaging for the pomodoro start, the break start, and the work end.
 - Change the code to set a specific number of work cycles. This would be great if there's a specific time that you have to work. Or to set a goal to work a specific number of cycles.
+- Creat a flask project for pomodoro that uses docker image so that anyone can run this
+
+
