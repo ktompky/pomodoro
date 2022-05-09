@@ -6,7 +6,7 @@ print("The pomodoro timer has started, start working.")
 
 
 
-if __name__ == "__main__":
+def tenMins():
     while True:
         time.sleep(1800)
         count += 1
